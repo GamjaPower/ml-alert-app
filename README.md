@@ -2,7 +2,7 @@
 
 ## 사전 준비물
 - Splunk 8.x 설치
-- 노트북(Mac or Linux), 윈도우에서는 확인하지 못함
+- 노트북(Mac or Linux), 윈도우에서는 직접 Splunk SDK를 설치해야 함 
 - Zoom App
 - Python 기본 문법 
 - Splunk Custom Command 개발 문서 또는 블로그 참조 : https://datahack.dev/2021/04/13/data/splunk/custom-search-command-1/
