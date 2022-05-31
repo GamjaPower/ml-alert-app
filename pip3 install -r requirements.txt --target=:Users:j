@@ -1,1 +1,0 @@
-pip3 install -r requirements.txt --target=/Users/jason96/Splunk/etc/apps/ml-alert-app/lib
